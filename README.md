@@ -1,4 +1,11 @@
-# ✍️ Amirhossein Rezaei
+  /$$$$$$                /$$                 /$$$$$$$                                          /$$
+ /$$__  $$              |__/                | $$__  $$                                        |__/
+| $$  \ $$ /$$$$$$/$$$$  /$$  /$$$$$$       | $$  \ $$  /$$$$$$  /$$$$$$$$  /$$$$$$   /$$$$$$  /$$
+| $$$$$$$$| $$_  $$_  $$| $$ /$$__  $$      | $$$$$$$/ /$$__  $$|____ /$$/ |____  $$ /$$__  $$| $$
+| $$__  $$| $$ \ $$ \ $$| $$| $$  \__/      | $$__  $$| $$$$$$$$   /$$$$/   /$$$$$$$| $$$$$$$$| $$
+| $$  | $$| $$ | $$ | $$| $$| $$            | $$  \ $$| $$_____/  /$$__/   /$$__  $$| $$_____/| $$
+| $$  | $$| $$ | $$ | $$| $$| $$            | $$  | $$|  $$$$$$$ /$$$$$$$$|  $$$$$$$|  $$$$$$$| $$
+|__/  |__/|__/ |__/ |__/|__/|__/            |__/  |__/ \_______/|________/ \_______/ \_______/|__/
 > **Linux | Shell | Automation | Python | Network**
 
 ---
@@ -15,10 +22,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-251-1021&show_icons=true&theme=tokyonight&hide_border=true" alt="Amirhossein GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-251-1021&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
-</p>
