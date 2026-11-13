@@ -1,5 +1,3 @@
-@@ -1,11 +1,57 @@
-# Amir Rezaei
 # Hi, I'm Amir Rezaei 👋
 
 #### Languages & Scripting
