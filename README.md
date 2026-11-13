@@ -1,4 +1,35 @@
+@@ -1,11 +1,57 @@
+# Amir Rezaei
+# Hi, I'm Amir Rezaei 👋
 
+#### Languages & Scripting
+**Linux systems • Networking • Shell scripting • C**
+
+Focused on building solid foundations in system administration, networking, and low-level programming.
+
+---
+
+### 🎯 Current Focus
+
+- 📖 Preparing for **LPIC-1** (Linux Professional Institute Certification)
+- 🌐 Studying **CompTIA Network+**
+- 💻 Deepening skills in **C** and systems programming
+- 🐧 Daily driver: **Linux** + **Bash** (advanced scripting & automation)
+
+---
+
+### 🛠️ Skills & Tools
+
+#### Core
+| Area | Skills |
+|------|--------|
+| **Linux** | System administration, shell, services, filesystem, permissions |
+| **Bash** | Advanced scripting, automation, TUI tools, pipeline mastery |
+| **C** | Systems programming, memory management, low-level understanding |
+| **Networking** | Network+, protocols, troubleshooting, Linux networking tools |
+| **Version Control** | Git & GitHub |
+
+#### Badges
 <div align="center">
 
 <br>
