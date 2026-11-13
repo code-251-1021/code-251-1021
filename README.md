@@ -1,15 +1,15 @@
-# Hi, I'm Amir Rezaei 👋
+# Hi, I'm Amir Rezaei 
 
-### 🎯 Current Focus
+###  Current Focus
 
-- 📖 Preparing for **LPIC-1** (Linux Professional Institute Certification)
-- 🌐 Studying **CompTIA Network+**
-- 💻 Deepening skills in **C** and systems programming
-- 🐧 Daily driver: **Linux** + **Bash** (advanced scripting & automation)
+-  Preparing for **LPIC-1** (Linux Professional Institute Certification)
+-  Studying **CompTIA Network+**
+-  Deepening skills in **C** and systems programming
+-  Daily driver: **Linux** + **Bash** (advanced scripting & automation)
 
 ---
 
-### 🛠️ Skills & Tools
+###  Skills & Tools
 
 #### Core
 | Area | Skills |
