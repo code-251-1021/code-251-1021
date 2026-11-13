@@ -1,10 +1,5 @@
 # Hi, I'm Amir Rezaei 👋
 
-#### Languages & Scripting
-**Linux systems • Networking • Shell scripting • C**
-
-Focused on building solid foundations in system administration, networking, and low-level programming.
-
 ---
 
 ### 🎯 Current Focus
