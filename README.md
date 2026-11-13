@@ -1,7 +1,5 @@
 # Hi, I'm Amir Rezaei 👋
 
----
-
 ### 🎯 Current Focus
 
 - 📖 Preparing for **LPIC-1** (Linux Professional Institute Certification)
