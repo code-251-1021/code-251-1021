@@ -9,7 +9,7 @@
 
 ---
 
-###  Skills & Tools
+###  Skills & Tools(Leraning)
 
 #### Core
 | Area | Skills |
